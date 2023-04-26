@@ -39,7 +39,7 @@
         "yet-another-react-lightbox": "^2.2.0"
     },
     "scripts": {
-        "start": "export HTTPS=true&&SSL_CRT_FILE=C:/Windows/System32/create-cert.crt&&SSL_KEY_FILE=C:/Windows/System32/create-cert-key.key.crt react-scripts start",
+        "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
