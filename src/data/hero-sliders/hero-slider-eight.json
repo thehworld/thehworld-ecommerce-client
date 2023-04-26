@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Herbal Hair Styling Gel",
+    "subtitle": "The H <br /> World",
+    "image": "/assets/img/banner/home.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Herbal Hair Styling Gel",
+    "subtitle": "The H  <br /> World",
+    "image": "/assets/img/banner/home.png",
+    "url": "/shop-grid-standard"
+  }
+]
